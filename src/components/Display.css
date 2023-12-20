@@ -1,0 +1,43 @@
+#display-time{
+    display: block;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+#list{
+    margin-left: 20%;
+    margin-top: 4%;
+}
+button{
+    width: 250px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: rgb(245, 242, 242);
+    font-size: 25px;
+    font-weight: 700;
+
+}
+button:hover{
+background-color: black;
+color: white;
+
+}
+
+#title{
+    font-size: 40px;
+}
+
+#countdown{
+    font-size: 40px;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+#representation{
+    margin-left: 16%;
+}
+
+.TOTAL-BODY{
+    background-image: linear-gradient(orange,white,green);
+    height: 89vh;
+    padding-top: 5%;
+}
